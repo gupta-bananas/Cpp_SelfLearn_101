@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "hypotenuse_calculator": "cpp"
+        "hypotenuse_calculator": "cpp",
+        "ostream": "cpp"
     }
 }
